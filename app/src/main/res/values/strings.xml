@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Get Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="street">Street</string>
+    <string name="number">Number:</string>
+    <string name="country">Country:</string>
+    <string name="title_activity_get_location">Map</string>
+    <string name="title_location_permission">Locationb Permission</string>
+    <string name="text_location_permission">Please give Location Permission</string>
+    <string name="ok">Ok</string>
+</resources>
